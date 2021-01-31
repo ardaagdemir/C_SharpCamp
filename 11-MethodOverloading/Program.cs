@@ -38,5 +38,5 @@ namespace _11_MethodOverloading
         {
             return numbers.Sum(); //.Sum bir toplama fonksiyonudur. Python ile aynıdır.
         }
-    }   //
+    }   
 }
