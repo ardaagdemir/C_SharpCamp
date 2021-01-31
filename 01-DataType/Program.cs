@@ -8,7 +8,7 @@ namespace KampIntro
         {
 
             //type safety - tip güvenliği ------>c# ve Java dilleri bu prensip ile çalışmaktadır.
-            //Do not repeat yourself - Kendini tekrarlama
+            //Do not repeat yourself
             
             //Veri tipleri
 
