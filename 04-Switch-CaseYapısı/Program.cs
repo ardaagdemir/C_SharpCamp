@@ -6,7 +6,7 @@ namespace _04_Switch_CaseYapısı
     {
         static void Main(string[] args)
         {
-            /Switch case yapısı, çok durumlu dallanma ifadelerinde if-else blokları yerine tercihen kullanılırlar. 
+            //Switch case yapısı, çok durumlu dallanma ifadelerinde if-else blokları yerine tercihen kullanılırlar. 
             //Switch-case ile yapılabilecek tüm işlemler if-else merdiveni ile de yapılabilmektedir. 
             //Fakat kod okunabilirliğini arttırdığı için birçok programcı switch-case yapısını karmaşık if-else blokları yerine kullanmaktadır.
 
