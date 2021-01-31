@@ -24,6 +24,6 @@ namespace _03_TernaryOperatörü
             string sonuc = a > b ? "5 sayısı 4 den büyüktür" : "4 sayısı 5 den büyüktür";
             Console.WriteLine(sonuc);
 
-        }   
+        }
     }
 }
