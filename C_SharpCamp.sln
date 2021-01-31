@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-Mathematics", "08-Mathem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-ValueAndReferanceTypes", "09-ValueAndReferanceTypes\09-ValueAndReferanceTypes.csproj", "{71EACA56-95BA-41BA-BB71-669B0BE167BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-TernaryOperator", "05-TernaryOperator\05-TernaryOperator.csproj", "{5C91FB6D-87E8-4CCF-945E-8CB2B5900E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{71EACA56-95BA-41BA-BB71-669B0BE167BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71EACA56-95BA-41BA-BB71-669B0BE167BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71EACA56-95BA-41BA-BB71-669B0BE167BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C91FB6D-87E8-4CCF-945E-8CB2B5900E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C91FB6D-87E8-4CCF-945E-8CB2B5900E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C91FB6D-87E8-4CCF-945E-8CB2B5900E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C91FB6D-87E8-4CCF-945E-8CB2B5900E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
