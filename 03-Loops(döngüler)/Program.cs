@@ -21,7 +21,7 @@ namespace WhileLoop
             Console.WriteLine("For bitti");
 
 
-            //foreach farklı bir döngü yöntemidir. For ile aynıdır. Ancak "foreach" yalnızca dizilere uygulanır ve yazım farkı vardır.
+            ///foreach farklı bir döngü yöntemidir. For ile aynıdır. Ancak "foreach" yalnızca dizilere uygulanır ve yazım farkı vardır.
             foreach (string kurs in kurslar)
             {
                 Console.WriteLine(kurs);
