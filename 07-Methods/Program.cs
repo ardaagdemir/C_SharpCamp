@@ -6,13 +6,13 @@ namespace Metotlar
     {
         static void Main(string[] args)
         {
-            string urunAdi = "Elma";
-            double fiyati = 15;
-            string aciklama = "Amasya elması";
+            //string urunAdi = "Elma";
+            //double fiyati = 15;
+            //string aciklama = "Amasya elması";
             //Class, yukarıdaki verileri tek başına aynı kod satırında tanımlamaya yarayan bir yapıdır.
             //Aşağıda örneği gösterilmiştir.
 
-            string[] meyveler = new string[] {"Elma","Karpuz" };
+            //string[] meyveler = new string[] {"Elma","Karpuz" };
 
             Product urun1 = new Product();
             urun1.Adi = "Elma";
