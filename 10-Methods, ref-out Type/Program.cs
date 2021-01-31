@@ -80,6 +80,6 @@ namespace _10__4._Gün_Hazırlık__Methods_
     //static int Num(out int number1, int number2)
     //  number1 = 30; ----> out kullanabilmek için mutlaka metodda return dan önce ilgili parametreye bir değer verilmesi gerekir. Yoksa kod çalışmaz.
     //  return number1 + number2;
-
+    //
 
 }
