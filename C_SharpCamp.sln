@@ -23,9 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-TernaryOperator", "05-Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-MethodOverloading - Out", "11-MethodOverloading\11-MethodOverloading - Out.csproj", "{D969AA3A-B173-438F-9835-CD092998123B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Methods, ref-out Type", "10-Methods, ref-out Type\10-Methods, ref-out Type.csproj", "{FB17C1DB-223A-4F30-85DA-1883E64B1656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-Methods, ref-out Type", "10-Methods, ref-out Type\10-Methods, ref-out Type.csproj", "{FB17C1DB-223A-4F30-85DA-1883E64B1656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-ClassMetotDemo", "12-ClassMetotDemo\12-ClassMetotDemo.csproj", "{A8C7CE16-0B95-49E4-AB1F-486BEBB82F28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-ClassMetotDemo", "12-ClassMetotDemo\12-ClassMetotDemo.csproj", "{A8C7CE16-0B95-49E4-AB1F-486BEBB82F28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-ObjectOrientedProgramming", "13-ObjectOrientedProgramming\13-ObjectOrientedProgramming.csproj", "{6B221C31-12CF-40E7-9692-F1551CC60DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Collections", "14-Collections\14-Collections.csproj", "{42CCC4C3-9129-4728-946D-549323A59A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Collections(GenericIntro)", "15-Collections(GenericIntro)\15-Collections(GenericIntro).csproj", "{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{A8C7CE16-0B95-49E4-AB1F-486BEBB82F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8C7CE16-0B95-49E4-AB1F-486BEBB82F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8C7CE16-0B95-49E4-AB1F-486BEBB82F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B221C31-12CF-40E7-9692-F1551CC60DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B221C31-12CF-40E7-9692-F1551CC60DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B221C31-12CF-40E7-9692-F1551CC60DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B221C31-12CF-40E7-9692-F1551CC60DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CCC4C3-9129-4728-946D-549323A59A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CCC4C3-9129-4728-946D-549323A59A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CCC4C3-9129-4728-946D-549323A59A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CCC4C3-9129-4728-946D-549323A59A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
