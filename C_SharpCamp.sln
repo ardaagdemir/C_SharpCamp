@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-ClassMetotDemo", "12-Cla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-ObjectOrientedProgramming", "13-ObjectOrientedProgramming\13-ObjectOrientedProgramming.csproj", "{6B221C31-12CF-40E7-9692-F1551CC60DB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Collections", "14-Collections\14-Collections.csproj", "{42CCC4C3-9129-4728-946D-549323A59A19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-Collections", "14-Collections\14-Collections.csproj", "{42CCC4C3-9129-4728-946D-549323A59A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Collections(GenericIntro)", "15-Collections(GenericIntro)\15-Collections(GenericIntro).csproj", "{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-Collections(GenericIntro)", "15-Collections(GenericIntro)\15-Collections(GenericIntro).csproj", "{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-ReferenceTypes(OOP)", "16-ReferenceTypes(OOP)\16-ReferenceTypes(OOP).csproj", "{3139FD38-B24B-4EA6-B4A3-DB94699E49AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A9C71A8-C242-4CE2-8CD9-9382DC46924B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3139FD38-B24B-4EA6-B4A3-DB94699E49AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3139FD38-B24B-4EA6-B4A3-DB94699E49AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3139FD38-B24B-4EA6-B4A3-DB94699E49AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3139FD38-B24B-4EA6-B4A3-DB94699E49AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
