@@ -46,7 +46,7 @@ namespace _16_ReferenceTypes_OOP_
 
 
     //base class : Person
-    class Customer : Person   //inheritence = miras alma,  customer class a person class tan miras aldık
+    class Customer : Person   //inheritence = miras alma,  customer class a, person class tdan miras aldık
     {
         public string CreditCardNumber { get; set; }
 
