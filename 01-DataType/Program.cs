@@ -12,7 +12,7 @@ namespace KampIntro
             
             //Veri tipleri
 
-            //int, decimal, float, double, bool gibi sayısal veri tiplerine "Değer Tip" adı verilir.
+            //int, decimal, float, double, enum, boolean gibi sayısal veri tiplerine "Değer Tip" adı verilir.
             //Bu değer tipler bellekte "Stack" alanına kaydedilir.
             
             //array, class, interface gibi metin veri tiplerine "Referans Tip" adı verilir.
