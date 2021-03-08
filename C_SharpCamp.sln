@@ -41,7 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-DictionaryInstance", "18
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19-OOP_2", "19-OOP_2\19-OOP_2.csproj", "{09A4858F-E26E-468B-8FF8-E083AFEC4C30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_3", "OOP_3\OOP_3.csproj", "{134DC542-8548-4A43-B7A9-0060B671FD4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20-OOP_3", "OOP_3\20-OOP_3.csproj", "{134DC542-8548-4A43-B7A9-0060B671FD4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21-InterfaceAbstractDemo", "21-InterfaceAbstractDemo\21-InterfaceAbstractDemo.csproj", "{7C323DE7-9A7C-4A89-A553-196AC0B2AA40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{F4DD0366-3413-4074-BF7F-8B1CD68B1284}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{134DC542-8548-4A43-B7A9-0060B671FD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{134DC542-8548-4A43-B7A9-0060B671FD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{134DC542-8548-4A43-B7A9-0060B671FD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C323DE7-9A7C-4A89-A553-196AC0B2AA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C323DE7-9A7C-4A89-A553-196AC0B2AA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C323DE7-9A7C-4A89-A553-196AC0B2AA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C323DE7-9A7C-4A89-A553-196AC0B2AA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DD0366-3413-4074-BF7F-8B1CD68B1284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DD0366-3413-4074-BF7F-8B1CD68B1284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DD0366-3413-4074-BF7F-8B1CD68B1284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DD0366-3413-4074-BF7F-8B1CD68B1284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
