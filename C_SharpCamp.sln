@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22-LinqProject", "22-LinqProject\22-LinqProject.csproj", "{6D73E76C-C667-4FAE-AC85-ACCA3774F21F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-LinqMethods", "23-LinqMethods\23-LinqMethods.csproj", "{120DC03E-2B43-464B-A020-624D3D0FE664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23-LinqMethods", "23-LinqMethods\23-LinqMethods.csproj", "{120DC03E-2B43-464B-A020-624D3D0FE664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-Attributes", "24-Attributes\24-Attributes.csproj", "{37C03447-14A1-4759-A4FD-AD58CB19F2C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{120DC03E-2B43-464B-A020-624D3D0FE664}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{120DC03E-2B43-464B-A020-624D3D0FE664}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{120DC03E-2B43-464B-A020-624D3D0FE664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C03447-14A1-4759-A4FD-AD58CB19F2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C03447-14A1-4759-A4FD-AD58CB19F2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C03447-14A1-4759-A4FD-AD58CB19F2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C03447-14A1-4759-A4FD-AD58CB19F2C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
