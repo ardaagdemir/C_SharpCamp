@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23-LinqMethods", "23-LinqMe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-Attributes", "24-Attributes\24-Attributes.csproj", "{37C03447-14A1-4759-A4FD-AD58CB19F2C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-Reflection", "25-Reflection\25-Reflection.csproj", "{5359F85E-1C39-4AEB-99CF-DD5F5EE9DDF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{37C03447-14A1-4759-A4FD-AD58CB19F2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C03447-14A1-4759-A4FD-AD58CB19F2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C03447-14A1-4759-A4FD-AD58CB19F2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5359F85E-1C39-4AEB-99CF-DD5F5EE9DDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5359F85E-1C39-4AEB-99CF-DD5F5EE9DDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5359F85E-1C39-4AEB-99CF-DD5F5EE9DDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5359F85E-1C39-4AEB-99CF-DD5F5EE9DDF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
